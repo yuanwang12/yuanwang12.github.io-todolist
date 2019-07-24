@@ -1,7 +1,7 @@
 {
   "name": "reduxtodolist",
   "version": "0.1.0",
-  "homepage": "https://yuanwang12.github.io/yuanwang12.github.io-todolist/.",
+  "homepage": "https://yuanwang12.github.io/yuanwang12.github.io-todolist/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
